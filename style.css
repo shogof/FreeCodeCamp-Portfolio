@@ -15,8 +15,8 @@
 
 #navbar nav ul {
   list-style-type: none;
-    margin-left: 10%;
-    padding-top:5px;
+  margin-left: 10%;
+  padding-top: 5px;
 }
 
 #navbar nav ul li {
@@ -99,7 +99,3 @@
   text-decoration: underline;
 }
 
-/* Media Query for responsiveness */
-@media screen and (max-width: 768px) {
-  /* Add your responsive styles here */
-}
