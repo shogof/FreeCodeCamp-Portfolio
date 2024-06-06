@@ -24,6 +24,10 @@
   padding: 10px;
 }
 
+.project-tile a:hover {
+  text-decoration: underline;
+}
+
 #links a {
   width: 20%;
   height: 2rem;
@@ -33,10 +37,6 @@
   margin: 10px 5px;
   padding: 6px;
   text-decoration: none;
-}
-
-.project-tile a:hover {
-  text-decoration: underline;
 }
 
 #navbar nav ul li a {
