@@ -24,6 +24,21 @@
   padding: 10px;
 }
 
+#links a {
+  width: 20%;
+  height: 2rem;
+  color: white;
+  background-color: #000;
+  border-radius: 5px;
+  margin: 10px 5px;
+  padding: 6px;
+  text-decoration: none;
+}
+
+.project-tile a:hover {
+  text-decoration: underline;
+}
+
 #navbar nav ul li a {
   color: white;
   text-decoration: none;
@@ -74,28 +89,8 @@
   margin-bottom: 1rem;
 }
 
-.project-tile a {
-  color: blue;
-  text-decoration: none;
-}
-
 #links {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
-#links a {
-  width: 20%;
-  height: 2rem;
-  color: white;
-  background-color: #000;
-  border-radius: 5px;
-  margin: 10px 5px;
-  padding: 6px;
-}
-
-.project-tile a:hover {
-  text-decoration: underline;
-}
-
