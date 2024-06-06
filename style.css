@@ -94,3 +94,9 @@
   justify-content: center;
   align-items: center;
 }
+
+@media (max-width: 768px) {
+  .navbar {
+    font-size: 1.6rem;
+  }
+}
