@@ -27,7 +27,7 @@ To install and set up this project, simply follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:shogof/Technical-Documentation-page.git
+   git clone git@github.com:shogof/FreeCodeCamp-Portfolio.git
    ```
 
 🎉 Once you've cloned the repository, you're all set to start exploring and using the project! If you encounter any issues or have questions, feel free to reach out for assistance. 🚀
@@ -75,7 +75,7 @@ If you'd like to contribute to this project, follow these steps:
     Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/Shegofa/Technical-Documentation-page.git
+    git clone https://github.com/Shegofa/FreeCodeCamp-Portfolio.git
     ```
 
 3.  **Create a new branch:**
