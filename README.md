@@ -41,7 +41,7 @@ To use this project, follow these steps:
 
 2. **Navigate to project directory:**
    ```bash
-   cd Technical-Documentation-page
+   cd FreeCodeCamp-Portfolio-page
    ```
 3. **Open the HTML file:**
    Open the index.html file in your preferred web browser. You can do this by double-clicking the file or using a command-line tool like open (for macOS) or start (for Windows).
